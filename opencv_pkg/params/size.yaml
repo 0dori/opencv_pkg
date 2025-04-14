@@ -1,0 +1,4 @@
+img_publish:
+  ros__parameters:
+    image_width: 640
+    image_height: 480
